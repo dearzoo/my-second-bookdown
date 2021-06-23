@@ -1,5 +1,5 @@
 --- 
-title: "My First Bookdown"
+title: "My Second Bookdown"
 author: "Younjung Choi"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
